@@ -1,0 +1,14 @@
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\bin\Debug\net7.0\Trabajo.exe
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\bin\Debug\net7.0\Trabajo.deps.json
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\bin\Debug\net7.0\Trabajo.runtimeconfig.json
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\bin\Debug\net7.0\Trabajo.dll
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\bin\Debug\net7.0\Trabajo.pdb
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.AssemblyInfoInputs.cache
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.AssemblyInfo.cs
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.dll
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\refint\Trabajo.dll
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.pdb
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\Trabajo.genruntimeconfig.cache
+C:\Users\LABORATORIO-1\Documents\Lady\Trabajo\obj\Debug\net7.0\ref\Trabajo.dll
